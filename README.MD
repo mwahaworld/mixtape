@@ -7,11 +7,11 @@ download
 * run command `npm install`
 
 **Run**
-* run command `npm start mixtape*data.json changes.json output.json`
+* run command `npm start mixtape-data.json changes.json output.json`
 
 **Validation**
 
-* output.json should have the same structure as mixtape*data.json
+* output.json should have the same structure as mixtape-data.json
 * the `playlists` object in output.json should contain all the valid changes from changes.json
 
 **Test Scenarios**
