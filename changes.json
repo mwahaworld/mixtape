@@ -1,0 +1,58 @@
+{
+  "playlists": [
+    {
+      "isDeleted": false,
+      "id": "1",
+      "owner_id": "2",
+      "add_song_ids": [
+        "1",
+        "2",
+        "30",
+        "9999"
+      ]
+    },{
+      "isDeleted": false,
+      "id": "10",
+      "owner_id": "2",
+      "add_song_ids": [
+        "10000",
+        "20000",
+        "30000"
+      ]
+    },
+    {
+      "isDeleted": true,
+      "id": "2",
+      "owner_id": "3",
+      "add_song_ids": [
+        "3",
+        "4",
+        "5",
+        "40"
+      ]
+    },
+    {
+      "isDeleted": false,
+      "id": "6",
+      "owner_id": "6",
+      "add_song_ids": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ]
+    },
+    {
+      "isDeleted": false,
+      "id": "3",
+      "owner_id": "5",
+      "add_song_ids": [
+        "7",
+        "12",
+        "13",
+        "16",
+        "2"
+      ]
+    }
+  ]
+}
